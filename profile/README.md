@@ -1,12 +1,50 @@
-## Hi there 👋
+# Big Sky Financial Services LLC
 
-<!--
+🚀 Welcome to the official GitHub organization for **Big Sky Financial Services LLC**!  
+We specialize in financial services, tools, and technology solutions designed to streamline financial management.
 
-**Here are some ideas to get you started:**
+## 📂 Repository Overview
+This `.github` repository serves as the **public-facing** home for:
+- 📢 **Announcements** – Stay updated on our latest news.
+- 💬 **Discussions** – Engage with the community and team members.
+- 📄 **Guidelines & Policies** – Learn about our contribution process.
+- 🛠 **Issue Templates & PR Guidelines** – Standardized formats for efficient collaboration.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 📢 Discussions & Collaboration
+We encourage open discussions to improve our projects. Check out our **[Discussions](https://github.com/BigSkyFinancial/.github/discussions)** section to:
+- Share ideas and feedback 💡
+- Get help with financial tools and services 🛠️
+- Stay informed on updates 📢
+
+### 🔹 Discussion Categories:
+| Category | Purpose |
+|----------|---------|
+| 📢 Announcements | Official updates & news |
+| 💬 General Discussion | Open-ended conversations & brainstorming |
+| 🛠 Development & Issues | Feature discussions & technical Q&A |
+| 📄 Documentation & Policies | Internal guidelines & workflow discussions |
+
+---
+
+## 🏗️ Contribution Guidelines
+We welcome contributions to our repositories!  
+To get started:
+1. Review our **[Contribution Guidelines](https://github.com/BigSkyFinancial/.github/blob/main/CONTRIBUTING.md)**
+2. Open an **Issue** or start a **Discussion** before submitting a PR.
+3. Follow our **Issue & PR templates** for consistency.
+
+📌 Need help? Start a **Discussion** or reach out to a team member!
+
+---
+
+## 🔐 Code of Conduct
+To maintain a welcoming environment, please review our **[Code of Conduct](https://github.com/BigSkyFinancial/.github/blob/main/CODE_OF_CONDUCT.md)**.
+
+---
+
+## 🏢 About Big Sky Financial Services LLC
+We provide modern financial tools, business solutions, and advisory services to help individuals and companies achieve financial success.
+
+🔗 **Website**: [Coming Soon](#)  
