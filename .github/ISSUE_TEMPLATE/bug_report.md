@@ -1,38 +1,34 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: "🐞 Bug Report"
+about: "Report an issue with expected vs. actual behavior"
+title: "[Bug] <brief description>"
+labels: ["bug"]
+assignees: []
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## 🐞 Bug Report: <Brief Summary>
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### 🔹 Steps to Reproduce:
+1. Go to `...`
+2. Click on `...`
+3. Observe the issue `...`
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### 🤔 Expected Behavior:
+Describe what should happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### ❌ Actual Behavior:
+Describe what happens instead.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### 🖥 Environment:
+- OS: `<Windows/macOS/Linux>`
+- Browser/Version: `<Chrome/Edge/Firefox/Safari>`
+- Other details:
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+### 📷 Screenshots (if applicable):
+Attach relevant screenshots or logs.
 
-**Additional context**
-Add any other context about the problem here.
+### 🔍 Possible Fix (if known):
+Suggest a fix or a workaround.
+
+---
+🚀 *Need help fixing it? Let's collaborate!*  
