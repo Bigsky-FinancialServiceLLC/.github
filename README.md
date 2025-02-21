@@ -4,6 +4,7 @@
 We specialize in financial services, tools, and technology solutions designed to streamline financial management.
 
 ## 📂 Repository Overview
+
 This `.github` repository serves as the **public-facing** home for:
 - 📢 **Announcements** – Stay updated on our latest news.
 - 💬 **Discussions** – Engage with the community and team members.
@@ -13,12 +14,14 @@ This `.github` repository serves as the **public-facing** home for:
 ---
 
 ## 📢 Discussions & Collaboration
+
 We encourage open discussions to improve our projects. Check out our **[Discussions](https://github.com/BigSkyFinancial/.github/discussions)** section to:
 - Share ideas and feedback 💡
 - Get help with financial tools and services 🛠️
 - Stay informed on updates 📢
 
-### 🔹 Discussion Categories:
+### 🔹 Discussion Categories
+
 | Category | Purpose |
 |----------|---------|
 | 📢 Announcements | Official updates & news |
@@ -28,7 +31,31 @@ We encourage open discussions to improve our projects. Check out our **[Discussi
 
 ---
 
+## File Structure
+
+```text
+.github/
+│── ISSUE_TEMPLATE/
+│   ├── bug_report.md
+│   ├── feature_request.md
+│   ├── documentation.md
+│   ├── task.md
+│   ├── internal_discussion.md
+│
+│── PULL_REQUEST_TEMPLATE/
+│   ├── default.md
+│   ├── advanced_pr.md
+│   ├── bug_fix_pr.md
+│
+│── CODEOWNERS
+│── CONTRIBUTING.md
+│── CODE_OF_CONDUCT.md
+```
+
+---
+
 ## 🏗️ Contribution Guidelines
+
 We welcome contributions to our repositories!  
 To get started:
 1. Review our **[Contribution Guidelines](https://github.com/BigSkyFinancial/.github/blob/main/CONTRIBUTING.md)**
@@ -40,11 +67,13 @@ To get started:
 ---
 
 ## 🔐 Code of Conduct
+
 To maintain a welcoming environment, please review our **[Code of Conduct](https://github.com/BigSkyFinancial/.github/blob/main/CODE_OF_CONDUCT.md)**.
 
 ---
 
 ## 🏢 About Big Sky Financial Services LLC
+
 We provide modern financial tools, business solutions, and advisory services to help individuals and companies achieve financial success.
 
 🔗 **Website**: [Coming Soon](#)  
