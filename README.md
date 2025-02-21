@@ -40,7 +40,6 @@ We encourage open discussions to improve our projects. Check out our **[Discussi
 │   ├── feature_request.md
 │   ├── documentation.md
 │   ├── task.md
-│   ├── internal_discussion.md
 │
 │── PULL_REQUEST_TEMPLATE/
 │   ├── default.md
